@@ -1,0 +1,13 @@
+L|0|a field|standing at home sweet home.|u=1,s=3|0,6
+L|1|a tree|up a tree for a nice view. Quite a nice view really.|d=0|1
+L|2|a shack|an old lonely shack perched upon a hilltop.|n=3,e=2|5
+L|3|a ponds edge|next to a medium sized pond.|n=0|3
+
+I|0|rock|a small plain rock plus added dust.|
+I|1|nest|a small birds nest made of twigs and mud.|2,7
+I|2|eggs|three small yellow eggs with brown dots.|
+I|3|pond|a medium sized pond.|4
+I|4|water|pond water that is slightly green in colour.|
+I|5|shoe|a dirty, well-worn old shoe.|
+I|6|bottle|a dirty, half-filled bottle of some slightly green water.|4
+I|7|feather|a crows feather.|
